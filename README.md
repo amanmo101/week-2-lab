@@ -1,6 +1,7 @@
 # WEEK 2 LAB
 
 This is the repository for WEB 102 Week 2 Lab: Samosa Selector
+Demo: https://www.loom.com/share/a66b99c97e064334a84424b186751840
 
 # React + Vite
 
